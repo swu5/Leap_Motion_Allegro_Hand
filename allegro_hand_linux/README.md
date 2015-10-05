@@ -8,6 +8,7 @@ File:Allegro hand linux.zip
 Git Repo
 https://github.com/simlabrobotics/allegro_hand_linux
 
+Have to install grasping
 
 Build and Run: "grasp"
 ======================
